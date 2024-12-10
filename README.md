@@ -22,6 +22,7 @@ Amenities: Additional features like parking, garden, etc.
 Dataset link: "C:\Users\rohini\Downloads\archive\House Price India.csv"
 
 Insights Derived :
+
 1.Price Distribution: Metropolitan areas like Mumbai have higher prices; most houses are in the lower to mid-range price brackets.
 2.Location Impact: City centers and premium neighborhoods have higher price-per-square-foot.
 3.Size vs. Price: Larger properties cost more, but price per square foot decreases with size.
