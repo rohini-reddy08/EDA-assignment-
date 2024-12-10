@@ -18,18 +18,12 @@ Bedrooms: Number of bedrooms.
 Bathrooms: Number of bathrooms.
 Year Built: The construction year of the house.
 Amenities: Additional features like parking, garden, etc.
-Insights Derived
-1. Price Distribution
-House prices show significant variation across regions, with metropolitan areas like Mumbai and Bangalore showing the highest averages.
-The price distribution is positively skewed, indicating that most houses fall in the lower to mid-range price brackets.
-2. Impact of Location
-Prime locations (e.g., city centers) exhibit higher price per square foot compared to suburban or rural areas.
-Certain neighborhoods have premium pricing due to proximity to schools, hospitals, or business hubs.
-3. Size vs. Price Relationship
-Larger properties tend to have higher prices, but the price per square foot decreases as the property size increases.
-Compact houses (1-2 BHK) are in high demand in metropolitan areas due to affordability and urban lifestyle preferences.
-4. Impact of Amenities
-Properties with modern amenities like swimming pools, gyms, and security systems command a higher price.
-Parking availability is a critical factor in determining house prices in urban areas.
-5. Year Built
-Recently constructed houses (post-2015) tend to be priced higher due to contemporary designs and compliance with modern building standards.
+
+Dataset link: "C:\Users\rohini\Downloads\archive\House Price India.csv"
+
+Insights Derived :
+1.Price Distribution: Metropolitan areas like Mumbai have higher prices; most houses are in the lower to mid-range price brackets.
+2.Location Impact: City centers and premium neighborhoods have higher price-per-square-foot.
+3.Size vs. Price: Larger properties cost more, but price per square foot decreases with size.
+4.Amenities: Modern features like parking and gyms increase property value.
+5.Year Built: Newer homes (post-2015) are priced higher due to modern designs.
